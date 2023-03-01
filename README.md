@@ -13,7 +13,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="">HTML</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">CSS</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Java script</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Angular 14</a>
-
+<br>
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarbajit100&show_icons=true&locale=en&layout=compact" alt="sarbajit100" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarbajit100&show_icons=true&locale=en" alt="sarbajit100" /></p>
