@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarbajit rout</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" height="400px" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png" alt="coding">
+<img align="right" height="300px" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarbajit100&label=Profile%20views&color=0e75b6&style=flat" alt="sarbajit100" /> </p>
 
 - 🌱 I’m currently learning **react.js**
