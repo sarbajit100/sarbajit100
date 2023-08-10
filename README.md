@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="">HTML</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">CSS</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Java script</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Angular 14</a><a href="">React js</a>
+<a href="">HTML</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">CSS</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Java script</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Angular 14</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">React js</a>
 <br>
 <br>
 <br>
